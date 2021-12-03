@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammaadSaad" alt="MuhammaadSaad" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/saadsiddiquePak" target="blank"><img src="https://img.shields.io/twitter/follow/saadsiddiquePak?logo=twitter&style=for-the-badge" alt="@saad" /></a> </p>
+
 
 - 🔭 I’m currently working on **Microfinance Bank in Salesforce**
 
@@ -30,8 +32,7 @@
 <a href="https://kaggle.com/muhammadsaadsiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="MuhammaadSaad" height="30" width="40" /></a>
 <a href="https://fb.com/MuhammaadSaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/MuhammaadSaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MuhammaadSaad" height="30" width="40" /></a>
- 
- <a href="https://developers.google.com/profile/u/MuhammadSaadSiddique" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="30"/> </a>
+ <a href="https://developers.google.com/profile/u/MuhammadSaadSiddique" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="30"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
