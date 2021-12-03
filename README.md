@@ -25,11 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@saadsiddiquePak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashir09155107" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/MuhammaadSaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashar-mahmood-911230b1" height="30" width="40" /></a>
+<a href="https://twitter.com/@saadsiddiquePak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/MuhammaadSaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammadsaadsiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="MuhammaadSaad" height="30" width="40" /></a>
-<a href="https://fb.com/MuhammaadSaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashir.bajwa" height="30" width="40" /></a>
+<a href="https://fb.com/MuhammaadSaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/MuhammaadSaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MuhammaadSaad" height="30" width="40" /></a>
+ 
+ <a href="https://developers.google.com/profile/u/MuhammadSaadSiddique" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="30"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
