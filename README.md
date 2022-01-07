@@ -2,12 +2,14 @@
 <h1 align="center">Hi 👋, I'm Muhammaad Saad Siddique</h1>
 <h3 align="center">A passionate App Developer, Data Analyst and Salesforce Developer</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammaadSaad" alt="MuhammaadSaad" /></a> </p>
-<p align="left"> <a href="https://twitter.com/saadsiddiquePak" target="blank"><img src="https://img.shields.io/twitter/follow/saadsiddiquePak?logo=twitter&style=for-the-badge" alt="@saad" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MuhammaadSaad&row=1column=6" alt="MuhammaadSaad" /> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammaadSaad&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammaadSaad" /> </p>
+<p align="center"> <a href="https://twitter.com/saadsiddiquePak" target="blank"><img src="https://img.shields.io/twitter/follow/saadsiddiquePak?logo=twitter&style=for-the-badge" alt="@saad" /></a> 
+ <img src="https://komarev.com/ghpvc/?username=MuhammaadSaad&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammaadSaad" /> 
+</p>
+
+
 - 🔭 I’m currently working on **Microfinance Bank in Salesforce**
 
 - 🌱 I’m currently learning **DevOps, Kotlin, Machine Learning, Data Sciences, Salesforce Development**
@@ -50,8 +52,8 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammaadSaad&show_icons=true&locale=en&layout=compact" alt="MuhammaadSaad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammaadSaad&show_icons=true&locale=en" alt="MuhammaadSaad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammaadSaad&" alt="MuhammaadSaad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammaadSaad&count_private=true&show_icons=true&locale=en" alt="MuhammaadSaad" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammaadSaad&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="MuhammaadSaad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammaadSaad&count_private=true&show_icons=true&locale=en&layout=compact" alt="MuhammaadSaad" /></p>
