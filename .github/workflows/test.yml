@@ -22,3 +22,9 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          
+          plugin_languages_threshold: 2%
+          plugin_languages_analysis_timeout: 15
