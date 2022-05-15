@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps, Kotlin, Machine Learning, Data Sciences etc**
 
+
 - 🤝 I’m looking for help with [Microfinance Bank in Salesforce](https://github.com/MuhammadSaadSiddique/SaleforceBank)
 
 - 💬 Ask me about **Coding Problems, Ideation, Android**
@@ -24,8 +25,12 @@
 <a href="https://fb.com/muhammaadsaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammaadsaad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/maza point" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maza point" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/msaad2387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msaad2387" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammaadsaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammaadsaad" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/MuhammadSaadSiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammaadsaad" height="30" width="40" /></a>
+<a href="https://discord.gg/#2458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2458" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/seo_creators" target="blank">Buy my services at Fiverr</a>
 </p>
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.datacamp.com/profile/muhammadsaad2387" target="blank">Data Camp</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadSaadSiddique&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaadsaad" /> </p>
 
