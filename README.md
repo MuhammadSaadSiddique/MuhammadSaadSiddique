@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad Siddique</h1>
-<h3 align="center">A passionate problem solver from Pakistan</h3>
+<h3 align="center">I'm Software Developer with 5 years of experience providing high-impact web and mobile solutions for diverse industries and organizations. With a focus on Android and mobile development, I have a diverse skill set that includes SQL, MySQL, Python, Java, C++, C#, Kotlin, and Firebase. I specializes in designing, developing, and testing mobile and web-based applications and incorporating various technologies to optimize products. With a Master’s Degree in Information Security and Information Technology academic background, I can also write scripts to extract data, implement MVVM architecture, and shape features individually.</h3>
 
 ## WHO am I
 
