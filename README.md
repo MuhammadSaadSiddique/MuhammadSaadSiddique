@@ -33,8 +33,7 @@
 <a href="https://opensea.io/SaadSiddique" target="blank">My NFTs</a>
 <a href="https://www.fiverr.com/seo_creators" target="blank">Buy my services at Fiverr</a>
 </p>
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.datacamp.com/profile/muhammadsaad2387" target="blank">Data Camp</a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadSaadSiddique&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaadsaad" /> </p>
 
