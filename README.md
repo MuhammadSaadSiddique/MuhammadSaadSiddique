@@ -36,6 +36,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadSaadSiddique&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaadsaad" /> </p>
+<a href="https://app.daily.dev/MuhammadSaadSid"><img src="https://api.daily.dev/devcards/017d12f4563a454abbd78ffd321732ed.png?r=kgn" width="400" alt="Muhammad Saad Siddique's Dev Card"/></a>
 
 # Contribution Graph
 
