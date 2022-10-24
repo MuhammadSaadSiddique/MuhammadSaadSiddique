@@ -1,4 +1,5 @@
 name: Indepth analysis
+schedule: [{cron: "0 0 * * *"}]
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.languages.indepth.svg
