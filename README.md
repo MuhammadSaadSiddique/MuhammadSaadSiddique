@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad Siddique</h1>
-<h3 align="center">I'm Software Developer with 5 years of experience providing high-impact web and mobile solutions for diverse industries and organizations. With a focus on Android and mobile development, I have a diverse skill set that includes SQL, MySQL, Python, Java, C++, C#, Kotlin, and Firebase. I specializes in designing, developing, and testing mobile and web-based applications and incorporating various technologies to optimize products. With a Master’s Degree in Information Security and Information Technology academic background, I can also write scripts to extract data, implement MVVM architecture, and shape features individually.</h3>
+<h3 align="center">I'm Software Developer with 5 years of experience providing high-impact web and mobile solutions for diverse industries and organizations. With a focus on Android and mobile development, I have a diverse skill set that includes SQL, MySQL, Python, Java, C++, C#, Kotlin, and Firebase. I specializes in designing, developing, and testing mobile and web-based applications and incorporating various technologies to optimize products. I can also write scripts to extract data, implement MVVM architecture, and shape features individually.</h3>
 
 ## WHO am I
 
@@ -36,11 +36,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadSaadSiddique&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaadsaad" /> </p>
-<a href="https://app.daily.dev/MuhammadSaad"><img src="https://raw.githubusercontent.com/MuhammadSaadSiddique/MuhammadSaadSiddique/main/devcard.svg" width="400" alt="Muhammad Saad Siddique's Dev Card"/></a>
+<a href="https://app.daily.dev/MuhammadSaadSiddique"><img src="https://raw.githubusercontent.com/MuhammadSaadSiddique/MuhammadSaadSiddique/main/devcard.svg" width="400" alt="Muhammad Saad Siddique's Dev Card"/></a>
 
 # Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammadSaadSiddique&theme=xcode)](https://github.com/MuhammadSaadSiddique)
+[![Saad's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadSaadSiddique&theme=xcode)](https://github.com/MuhammadSaadSiddique)
 
 # Github Contributions
 <h4 align="center">Isometric view of contributions in the last year</h4>
