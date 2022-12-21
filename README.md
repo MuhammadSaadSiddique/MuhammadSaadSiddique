@@ -25,7 +25,6 @@
 ##  Connect with me
 
 <p align="left">
-	<a href="https://www.datacamp.com/profile/muhammadsaad2387" target="blank">Datacamp</a>	
 <a href="https://linkedin.com/in/muhammad-saad-siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammaadsaad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7878118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7878118" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammaadsaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammaadsaad" height="30" width="40" /></a>
@@ -35,10 +34,18 @@
 <a href="https://www.leetcode.com/MuhammadSaadSiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammaadsaad" height="30" width="40" /></a>
 <a href="https://discord.gg/#2458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2458" height="30" width="40" /></a>
 
-	
-<a href="https://opensea.io/SaadSiddique" target="blank">My NFTs</a>
+
+<a href="https://www.datacamp.com/profile/muhammadsaad2387" target="blank">Datacamp</a>,
+<a href="https://opensea.io/SaadSiddique" target="blank">My NFTs</a>,
 <a href="https://www.fiverr.com/seo_creators" target="blank">Buy my services at Fiverr</a>
 </p>
+
+## 💻 GitHub Profile Stats
+
+<p align="center">
+	<img width="625em" src="./github-metrics.svg" />
+</p>
+
 <p align="center">
 
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MuhammadSaadSiddique/9240565800a36eec1d9177ef3fce9dab/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
@@ -63,11 +70,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=tokyonight_duo" alt="MuhammaadSaad"  /></p>
 <br/>
 	
-## 💻 GitHub Profile Stats
-
-<p align="center">
-	<img width="625em" src="./github-metrics.svg" />
-</p>
 
 
 
