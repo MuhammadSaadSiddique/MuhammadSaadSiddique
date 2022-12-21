@@ -1,4 +1,4 @@
-name: Metrics
+name: Github Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "* * 1 * *"}]
@@ -31,3 +31,6 @@ jobs:
           plugin_leetcode_sections: solved, skills, recent
           base: repositories
           plugin_traffic: yes
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          plugin_tweets_user: github
