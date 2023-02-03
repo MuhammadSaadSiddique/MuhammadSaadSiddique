@@ -49,8 +49,8 @@
 <p align="center">
 
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MuhammadSaadSiddique/9240565800a36eec1d9177ef3fce9dab/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
-
- <img src="https://komarev.com/ghpvc/?username=MuhammadSaadSiddique&label=Profile%20views&color=0e75b6&style=flat" alt="muhammaadsaad" /> </p>
+	[![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/434670985/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/434670985/week.md)
+ </p>
 <a href="https://app.daily.dev/MuhammadSaadSiddique"><img src="https://raw.githubusercontent.com/MuhammadSaadSiddique/MuhammadSaadSiddique/main/devcard.svg" width="400" alt="Muhammad Saad Siddique's Dev Card"/></a>
 
 # Contribution Graph
