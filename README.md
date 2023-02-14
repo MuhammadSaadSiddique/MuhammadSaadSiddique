@@ -4,6 +4,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad Siddique</h1>
 <h3 align="center">I'm Software Developer with 5 years of experience providing high-impact web and mobile solutions for diverse industries and organizations. With a focus on Android and mobile development, I have a diverse skill set that includes SQL, MySQL, Python, Java, C++, C#, Kotlin, and Firebase. I specializes in designing, developing, and testing mobile and web-based applications and incorporating various technologies to optimize products. I can also write scripts to extract data, implement MVVM architecture, and shape features individually.</h3>
 
+<span align="center">
+⚠️ Follow before cloning
+	
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MuhammadSaadSiddique/9240565800a36eec1d9177ef3fce9dab/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
+	[![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/434670985/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/434670985/week.md)
+ 
+</span>
+ 
+ 
 ## WHO am I
 
 - 🔭 I’m currently working on [Pakrism Android App](https://play.google.com/store/apps/details?id=com.pakrism)
@@ -46,12 +55,7 @@
 	<img width="625em" src="./github-metrics.svg" />
 </p>
 
-<p align="center">
 
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MuhammadSaadSiddique/9240565800a36eec1d9177ef3fce9dab/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
-	[![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/434670985/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/434670985/week.md)
- </p>
-<a href="https://app.daily.dev/MuhammadSaadSiddique"><img src="https://raw.githubusercontent.com/MuhammadSaadSiddique/MuhammadSaadSiddique/main/devcard.svg" width="400" alt="Muhammad Saad Siddique's Dev Card"/></a>
 
 # Contribution Graph
 
@@ -67,12 +71,14 @@
 
 ## 🔥 Streak Stats
 	
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=tokyonight_duo" alt="MuhammaadSaad"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=tokyonight_duo" alt="MuhammaadSaad"  />
 <br/>
 	
 
 
 
-
+<a href="https://app.daily.dev/MuhammadSaadSiddique"><img src="https://raw.githubusercontent.com/MuhammadSaadSiddique/MuhammadSaadSiddique/main/devcard.svg" width="400" alt="Muhammad Saad Siddique's Dev Card"/></a>
 
 ![](https://github.com/MuhammadSaadSiddique/MuhammadSaadSiddique/blob/main/pakistan.gif)
+	
+</p>
