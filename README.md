@@ -8,7 +8,7 @@
 ⚠️ Follow before cloning
 	
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MuhammadSaadSiddique/9240565800a36eec1d9177ef3fce9dab/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
-	[![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/434670985/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/434670985/week.md)
+[![Image of https://github.com/MuhammadSaadSiddique/Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/profile/badge.svg)](https://github.com/MuhammadSaadSiddique/Views) 
  
 </span>
  
