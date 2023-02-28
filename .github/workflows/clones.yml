@@ -81,14 +81,14 @@ jobs:
             ```
 
             **HTML**
-            ```html' >> CLONE.md
+            ```html' >> views.md
             echo "<a href='$repo'><img alt='GitHub Clones' src='$shields$url&logo=github'></a>" >> views.md
             echo '```' >> views.md
             
             git add CLONE.md
             git config --global user.name "GitHub Action"
             git config --global user.email "action@github.com"
-            git commit -m "create clone count badge"
+            git commit -m "create views count badge"
           fi
       
       - name: Update gist with latest referrer
@@ -101,7 +101,7 @@ jobs:
             -d @post_clone.json https://api.github.com/gists/${{ steps.set_id.outputs.GIST }} > /dev/null 2>&1
 
           if [ ! -f referrer.md ]; then
-            shields="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url="
+            shields="https://img.shields.io/badge/dynamic/json?color=success&label=referrer&query=count&url="
             url="https://gist.githubusercontent.com/${{ github.actor }}/${{ steps.set_id.outputs.GIST }}/raw/referrer.json"
             repo="https://github.com/MShawon/github-clone-count-badge"
             echo ''> referrer.md
@@ -121,7 +121,7 @@ jobs:
             git add CLONE.md
             git config --global user.name "GitHub Action"
             git config --global user.email "action@github.com"
-            git commit -m "create clone count badge"
+            git commit -m "create referrer count badge"
           fi
       - name: update clone.json
         run: |
