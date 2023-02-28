@@ -93,7 +93,10 @@ jobs:
             git config --global user.email "action@github.com"
             git commit -m "create views count badge"
           fi
-      
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.SECRET_TOKEN }}
       - name: Update gist with latest referrer
         run: |
           content=$(sed -e 's/\\/\\\\/g' -e 's/\t/\\t/g' -e 's/\"/\\"/g' -e 's/\r//g' "referrer.json" | sed -E ':a;N;$!ba;s/\r{0,1}\n/\\n/g')
@@ -126,6 +129,10 @@ jobs:
             git config --global user.email "action@github.com"
             git commit -m "create referrer count badge"
           fi
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.SECRET_TOKEN }}
       - name: update clone.json
         run: |
           curl https://raw.githubusercontent.com/MShawon/github-clone-count-badge/master/main.py > main.py
