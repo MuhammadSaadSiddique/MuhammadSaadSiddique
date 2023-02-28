@@ -64,11 +64,11 @@ jobs:
       - name: Update gist with latest views
         run: |
           content=$(sed -e 's/\\/\\\\/g' -e 's/\t/\\t/g' -e 's/\"/\\"/g' -e 's/\r//g' "views.json" | sed -E ':a;N;$!ba;s/\r{0,1}\n/\\n/g')
-          echo '{"description": "${{ github.repository }} clone statistics", "files": {"views.json": {"content": "'"$content"'"}}}' > post_views.json
+          echo '{"description": "${{ github.repository }} Views statistics", "files": {"views.json": {"content": "'"$content"'"}}}' > post_views.json
           curl -s -X PATCH \
             --user "${{ github.actor }}:${{ secrets.SECRET_TOKEN }}" \
             -H "Content-Type: application/json" \
-            -d @post_clone.json https://api.github.com/gists/${{ steps.set_id.outputs.GIST }} > /dev/null 2>&1
+            -d @post_views.json https://api.github.com/gists/${{ steps.set_id.outputs.GIST }} > /dev/null 2>&1
 
           if [ ! -f views.md ]; then
             shields="https://img.shields.io/badge/dynamic/json?color=success&label=views&query=count&url="
@@ -88,7 +88,7 @@ jobs:
             echo "<a href='$repo'><img alt='GitHub Views' src='$shields$url&logo=github'></a>" >> views.md
             echo '```' >> views.md
             
-            git add CLONE.md
+            git add views.md
             git config --global user.name "GitHub Action"
             git config --global user.email "action@github.com"
             git commit -m "create views count badge"
@@ -100,11 +100,11 @@ jobs:
       - name: Update gist with latest referrer
         run: |
           content=$(sed -e 's/\\/\\\\/g' -e 's/\t/\\t/g' -e 's/\"/\\"/g' -e 's/\r//g' "referrer.json" | sed -E ':a;N;$!ba;s/\r{0,1}\n/\\n/g')
-          echo '{"description": "${{ github.repository }} clone statistics", "files": {"referrer.json": {"content": "'"$content"'"}}}' > post_referrer.json
+          echo '{"description": "${{ github.repository }} Referrer statistics", "files": {"referrer.json": {"content": "'"$content"'"}}}' > post_referrer.json
           curl -s -X PATCH \
             --user "${{ github.actor }}:${{ secrets.SECRET_TOKEN }}" \
             -H "Content-Type: application/json" \
-            -d @post_clone.json https://api.github.com/gists/${{ steps.set_id.outputs.GIST }} > /dev/null 2>&1
+            -d @post_referrer.json https://api.github.com/gists/${{ steps.set_id.outputs.GIST }} > /dev/null 2>&1
 
           if [ ! -f referrer.md ]; then
             shields="https://img.shields.io/badge/dynamic/json?color=success&label=referrer&query=count&url="
@@ -124,7 +124,7 @@ jobs:
             echo "<a href='$repo'><img alt='GitHub Referrer' src='$shields$url&logo=github'></a>" >> referrer.md
             echo '```' >> referrer.md
             
-            git add CLONE.md
+            git add referrer.md
             git config --global user.name "GitHub Action"
             git config --global user.email "action@github.com"
             git commit -m "create referrer count badge"
