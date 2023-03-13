@@ -19,10 +19,11 @@
 	</a>
 </p>
 
-<!-- ## 🔥 Streak Stats -->
+## 🔥 Streak Stats
 	
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=tokyonight_duo" alt="MuhammaadSaad"  /> -->
+	
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=tokyonight_duo" alt="MuhammaadSaad"  />
 <br/>
 	
 
