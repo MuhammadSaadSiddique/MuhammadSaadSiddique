@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad Siddique</h1>
-<h3 align="center">I'm Software Developer with 5 years of experience providing high-impact web and mobile solutions for diverse industries and organizations. With a focus on Android and mobile development, I have a diverse skill set that includes SQL, MySQL, Python, Java, C++, C#, Kotlin, and Firebase. I specializes in designing, developing, and testing mobile and web-based applications and incorporating various technologies to optimize products. I can also write scripts to extract data, implement MVVM architecture, and shape features individually.</h3>
+<h3 align="center">I'm Software Developer with 5 years of experience providing high-impact web and mobile solutions for diverse industries and organizations. With a focus on Cyber Security and Android app development, I have a diverse skill set that includes SQL, MySQL, Python, Java, C++, C#, Kotlin, and Firebase. I specializes in designing, developing, and testing mobile and web-based applications and incorporating various technologies to optimize products. I can also write scripts to extract data, implement MVVM architecture, and shape features individually.</h3>
 
 <span align="center">
 ⚠️ Follow before cloning
@@ -49,36 +49,8 @@
 <a href="https://www.fiverr.com/seo_creators" target="blank">Buy my services at Fiverr</a>
 </p>
 
-## 💻 GitHub Profile Stats
-
-<p align="center">
-	<img width="625em" src="./github-metrics.svg" />
-</p>
-
-
-
-# Contribution Graph
-
-[![Saad's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadSaadSiddique&theme=xcode)](https://github.com/MuhammadSaadSiddique)
-
-# Github Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
-
-## 🔥 Streak Stats
-	
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=tokyonight_duo" alt="MuhammaadSaad"  />
-<br/>
 	
-
-
-
-<a href="https://app.daily.dev/MuhammadSaadSiddique"><img src="https://raw.githubusercontent.com/MuhammadSaadSiddique/MuhammadSaadSiddique/main/devcard.svg" width="400" alt="Muhammad Saad Siddique's Dev Card"/></a>
-
 ![](https://github.com/MuhammadSaadSiddique/MuhammadSaadSiddique/blob/main/pakistan.gif)
 	
 </p>
