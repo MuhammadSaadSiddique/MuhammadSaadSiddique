@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad Siddique</h1>
-<h3 align="center">I'm Software Developer with 5 years of experience providing high-impact web and mobile solutions for diverse industries and organizations. With a focus on Cyber Security and Android app development, I have a diverse skill set that includes SQL, MySQL, Python, Java, C++, C#, Kotlin, and Firebase. I specializes in designing, developing, and testing mobile and web-based applications and incorporating various technologies to optimize products. I can also write scripts to extract data, implement MVVM architecture, and shape features individually.</h3>
+<h3 align="center">As an experienced software developer with five years of expertise, I have a proven track record of delivering impactful web and mobile solutions to a diverse range of industries and organizations. My proficiency in Cyber Security and Android app development, coupled with a versatile skill set encompassing SQL, MySQL, Python, Java, C++, C#, Kotlin, and Firebase, enables me to provide clients with comprehensive software development services. My area of specialization includes designing, developing, and testing mobile and web-based applications while utilizing various cutting-edge technologies to optimize products.</h3>
 
 <span align="center">
 ⚠️ Follow before cloning
