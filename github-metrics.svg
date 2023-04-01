@@ -88,7 +88,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.08bb of code in 8959 edited files across 1386 commits</small>
+                <small>estimation from 2.08bb of code in 8979 edited files across 1388 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -633,7 +633,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 632k out of 112m users</span>
+                                    <span class="gh">ranked 593k out of 112m users</span>
                                 </div>
                                 <div class="text">Followed by 18 users</div>
                             </div>
