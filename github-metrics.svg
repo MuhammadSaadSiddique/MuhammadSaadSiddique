@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1896" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1915" class="">
     <defs>
         <style/>
     </defs>
@@ -88,13 +88,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.33bb of code in 9999 edited files across 1490 commits</small>
+                <small>estimation from 2.33bb of code in 10009 edited files across 1491 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="206.3758207962763" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="206.3758207962763" y="0" width="114.5364059512925" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="320.91222674756875" y="0" width="75.13569113124429" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="396.04791787881305" y="0" width="63.95208212118693" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -106,12 +109,48 @@
                                 Python
                             </div>
                             <small>
-                                <div>4 lines</div>
-                                <div>68 bytes</div>
+                                <div>1.94k lines</div>
+                                <div>43.1 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Java
+                            </div>
+                            <small>
+                                <div>646 lines</div>
+                                <div>15.7 kB</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                C++
+                            </div>
+                            <small>
+                                <div>1.24k lines</div>
+                                <div>23.9 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Kotlin
+                            </div>
+                            <small>
+                                <div>494 lines</div>
+                                <div>13.3 kB</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -640,7 +679,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.42m out of 398m repositories</span>
+                                    <span class="gh">ranked 2.38m out of 398m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
