@@ -28,7 +28,7 @@ jobs:
           # Options
           user: MuhammadSaadSiddique
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity,  repositories, metadata
           base_hireable: yes
           base_skip: yes
           config_octicon: yes
@@ -77,7 +77,7 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_thanks: octocat
-          plugin_people_types: followers, following,  followers, contributors, stargazers, watchers, sponsors, watchers
+          plugin_people_types: followers, contributors, stargazers, watchers, sponsors
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
