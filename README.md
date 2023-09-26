@@ -48,9 +48,24 @@
 <a href="https://opensea.io/SaadSiddique" target="blank">My NFTs</a>,
 <a href="https://www.fiverr.com/seo_creators" target="blank">Buy my services at Fiverr</a>
 </p>
+ 
+## 💻 GitHub Profile Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=tokyonight_duo" alt="MuhammaadSaad"  />
+<p align="center">
+	<img width="625em" src="./github-metrics.svg" />
+</p>
+
+
+
+## 🔥 Streak Stats
 	
+<p align="center">
+	
+ 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=tokyonight_duo" alt="MuhammaadSaad"  />
+
+
+ 
 ![](https://github.com/MuhammadSaadSiddique/MuhammadSaadSiddique/blob/main/pakistan.gif)
 	
-</p>
+</p></p>
