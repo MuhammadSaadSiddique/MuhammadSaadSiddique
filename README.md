@@ -15,12 +15,12 @@
  
 ## WHO am I
 
-- 🔭 I’m currently working on [Pakrism Android App](https://play.google.com/store/apps/details?id=com.pakrism)
+- 🔭 I’m currently working on project that can help [Reveal Science future knowledge from Quran](https://github.com/MuhammadSaadSiddique/QuranNScience)
 
 - 🌱 I’m currently learning **DevOps, Kotlin, Machine Learning, Data Sciences etc**
 
 
-- 🤝 I’m looking for help with [Microfinance Bank in Salesforce](https://github.com/MuhammadSaadSiddique/SaleforceBank)
+- 🤝 I’m looking for help with [Reveal Science future knowledge from Quran](https://github.com/users/YousraMashkoor/projects/1)
 
 - 💬 Ask me about **Coding Problems, Ideation, Android**
 
