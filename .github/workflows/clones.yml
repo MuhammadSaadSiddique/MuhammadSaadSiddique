@@ -90,7 +90,7 @@ jobs:
             
             git add views.md
             git config --global user.name "GitHub Action"
-            git config --global user.email "action@github.com"
+            git config --global user.email "26270646+MuhammadSaadSiddique@users.noreply.github.com"
             git commit -m "create views count badge"
           fi
       - name: Push
@@ -126,7 +126,7 @@ jobs:
             
             git add referrer.md
             git config --global user.name "GitHub Action"
-            git config --global user.email "action@github.com"
+            git config --global user.email "26270646+MuhammadSaadSiddique@users.noreply.github.com"
             git commit -m "create referrer count badge"
           fi
       - name: Push
@@ -166,7 +166,7 @@ jobs:
             
             git add CLONE.md
             git config --global user.name "GitHub Action"
-            git config --global user.email "action@github.com"
+            git config --global user.email "26270646+MuhammadSaadSiddique@users.noreply.github.com"
             git commit -m "create clone count badge"
           fi
       
