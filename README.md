@@ -66,14 +66,14 @@
 
  ## Github Stats📈:
 <p align="center">
-    <a href="https://github.com/arhamansari11">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadSaadSiddique&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadSaadSiddique&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/MuhammadSaadSiddique">
+<img height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadSaadSiddique&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadSaadSiddique&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
  <p align="center">
-   <a href="https://github.com/arhamansari11"> 
+   <a href="https://github.com/MuhammadSaadSiddique"> 
      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadSiddique&theme=algolia&hide_border=true" /> 
    </a>  
  </p 
